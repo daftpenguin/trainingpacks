@@ -1,0 +1,20 @@
+{
+  "version": 4,
+  "offense": 1,
+  "defense": 0,
+  "description": "Passing (Infield)",
+  "creator": "Wayprotein",
+  "code": "CDBB-8953-C052-654F",
+  "creatorID": "Steam:76561198141816115",
+  "uploader": "Daft Penguin",
+  "uploaderID": "EPIC:04b1e0a128a8472694a9ee7346e6ec5f",
+  "numDrills": 20,
+  "notes": "Odd numbered shots (1,3,5...) you are receiving a pass from a teammates. Each even numbered shot (2,4,6...) you are giving the pass you received in the previous shot. For example, In shot 1 you are receiving a pass from your teammates clear, therefore in shot 2 you should try to give the pass that you received in shot 1. A lot of these passes start from a dribble, these are more difficult because you have to control the ball before making a pass rather than slamming it ",
+  "youtube": "https://youtu.be/iw18GmksRaA",
+  "tags": [
+    "Shots",
+    "Striker",
+    "Pro",
+    "Champion"
+  ]
+}
