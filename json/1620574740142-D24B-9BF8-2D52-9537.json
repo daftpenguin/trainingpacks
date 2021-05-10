@@ -1,0 +1,152 @@
+{
+  "version": 4,
+  "offense": 2,
+  "defense": 0,
+  "description": "2 freestyle",
+  "creator": "Olsensson",
+  "code": "D24B-9BF8-2D52-9537",
+  "creatorID": "XBOX:2535457678679288",
+  "uploader": "Olsensson",
+  "uploaderID": "EPIC:56b37bdfd7a74499b99384b40290f783",
+  "numDrills": 2,
+  "drills": [
+    {
+      "ball": {
+        "location": {
+          "x": -1681.6099853515625,
+          "y": -896.5800170898438,
+          "z": 100.4800033569336
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 1.0,
+          "location": {
+            "x": -1434.8699951171875,
+            "y": -997.8499755859375,
+            "z": 17.049999237060547
+          },
+          "rotation": {
+            "pitch": -175,
+            "yaw": 29884,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.2709999680519104
+          },
+          "role": "shooter"
+        },
+        {
+          "boost": 100.0,
+          "location": {
+            "x": 1758.4664306640625,
+            "y": -1220.1673583984375,
+            "z": 37.99560546875
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 3618,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "role": "passer"
+        }
+      ]
+    },
+    {
+      "ball": {
+        "location": {
+          "x": -2498.010009765625,
+          "y": -3735.969970703125,
+          "z": 100.0
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 100.0,
+          "location": {
+            "x": -2761.16015625,
+            "y": -3892.547607421875,
+            "z": 37.99560546875
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 5587,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "role": "shooter"
+        },
+        {
+          "boost": 100.0,
+          "location": {
+            "x": 2829.193359375,
+            "y": -3991.11669921875,
+            "z": 37.99560546875
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 25402,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "role": "passer"
+        }
+      ]
+    }
+  ]
+}
