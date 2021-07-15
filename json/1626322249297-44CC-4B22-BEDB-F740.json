@@ -1,0 +1,83 @@
+{
+  "version": 4,
+  "offense": 2,
+  "defense": 0,
+  "description": "Team Training - Mizzou Redirs",
+  "creator": "Ulti",
+  "code": "44CC-4B22-BEDB-F740",
+  "creatorID": "Steam:76561198128442145",
+  "uploader": "Ulti",
+  "uploaderID": "EPIC:",
+  "numDrills": 1,
+  "drills": [
+    {
+      "ball": {
+        "location": {
+          "x": -3032.60986328125,
+          "y": 313.29998779296875,
+          "z": 100.0
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": -2402.37939453125,
+          "y": -677.7330932617188,
+          "z": 129.2791290283203
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 1.0,
+          "location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 17.010000228881836
+          },
+          "rotation": {
+            "pitch": -99,
+            "yaw": 16384,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.210999995470047
+          },
+          "role": "shooter"
+        },
+        {
+          "boost": 100.0,
+          "location": {
+            "x": -3596.208740234375,
+            "y": -2845.134765625,
+            "z": 37.99560546875
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 19711,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "role": "passer"
+        }
+      ]
+    }
+  ]
+}
