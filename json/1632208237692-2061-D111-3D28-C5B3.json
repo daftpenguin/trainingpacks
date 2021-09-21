@@ -1,0 +1,152 @@
+{
+  "version": 4,
+  "offense": 1,
+  "defense": 1,
+  "description": "New 2s Freestyle",
+  "creator": "Private Matcher",
+  "code": "2061-D111-3D28-C5B3",
+  "creatorID": "Unknown:",
+  "uploader": "Private Matcher",
+  "uploaderID": "EPIC:3f8024376b6f462d87640cb970f6ecbd",
+  "numDrills": 2,
+  "drills": [
+    {
+      "ball": {
+        "location": {
+          "x": 1345.679931640625,
+          "y": -504.489990234375,
+          "z": 100.0
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": 1718.7117919921875,
+          "y": 322.72119140625,
+          "z": 47.59183120727539
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 1.0,
+          "location": {
+            "x": 3762.3798828125,
+            "y": 2071.719970703125,
+            "z": 17.059999465942383
+          },
+          "rotation": {
+            "pitch": -175,
+            "yaw": 5740,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.20099999010562897
+          },
+          "role": "shooter"
+        },
+        {
+          "boost": 100.0,
+          "location": {
+            "x": 3303.048095703125,
+            "y": -2277.925537109375,
+            "z": 38.0
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 11388,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "role": "defender"
+        }
+      ]
+    },
+    {
+      "ball": {
+        "location": {
+          "x": 1345.679931640625,
+          "y": -504.489990234375,
+          "z": 100.0
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": 1927.687744140625,
+          "y": 291.2319030761719,
+          "z": -0.9436683654785156
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 100.0,
+          "location": {
+            "x": 3762.37841796875,
+            "y": 2071.7197265625,
+            "z": 38.0
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 71278,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "role": "shooter"
+        },
+        {
+          "boost": 100.0,
+          "location": {
+            "x": 3303.048095703125,
+            "y": -2277.925537109375,
+            "z": 38.0
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 11388,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "role": "defender"
+        }
+      ]
+    }
+  ]
+}
