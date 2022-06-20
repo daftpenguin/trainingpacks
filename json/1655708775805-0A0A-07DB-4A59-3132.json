@@ -1,0 +1,64 @@
+{
+  "version": 4,
+  "offense": 1,
+  "defense": 0,
+  "description": "creativity",
+  "creator": "Pulse Temple",
+  "code": "0A0A-07DB-4A59-3132",
+  "creatorID": "Steam:76561198200239467",
+  "uploader": "Evanble",
+  "uploaderID": "EPIC:",
+  "numDrills": 1,
+  "drills": [
+    {
+      "ball": {
+        "location": {
+          "x": 1100.3299560546875,
+          "y": 2180.0400390625,
+          "z": 93.13999938964844
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -54.06097412109375
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 1.0,
+          "location": {
+            "x": 643.469970703125,
+            "y": 1150.1199951171875,
+            "z": 17.010000228881836
+          },
+          "rotation": {
+            "pitch": -101,
+            "yaw": 11968,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.210999995470047
+          },
+          "role": "shooter"
+        }
+      ]
+    }
+  ]
+}
