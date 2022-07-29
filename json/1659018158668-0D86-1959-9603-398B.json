@@ -1,0 +1,64 @@
+{
+  "version": 4,
+  "offense": 1,
+  "defense": 0,
+  "description": "FN PECHER",
+  "creator": "Evanble",
+  "code": "0D86-1959-9603-398B",
+  "creatorID": "Steam:76561198303238386",
+  "uploader": "Evanble",
+  "uploaderID": "EPIC:",
+  "numDrills": 1,
+  "drills": [
+    {
+      "ball": {
+        "location": {
+          "x": -54.52000045776367,
+          "y": 4139.2900390625,
+          "z": 186.45999145507813
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": -1.680999994277954,
+          "y": -1095.2860107421875,
+          "z": 1087.0748291015625
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 9.999999406318238e-08,
+          "location": {
+            "x": 170.00999450683594,
+            "y": -212.38999938964844,
+            "z": 17.010000228881836
+          },
+          "rotation": {
+            "pitch": -100,
+            "yaw": 17692,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.210999995470047
+          },
+          "role": "shooter"
+        }
+      ]
+    }
+  ]
+}
