@@ -1,0 +1,64 @@
+{
+  "version": 4,
+  "offense": 1,
+  "defense": 0,
+  "description": "Freestyle practice",
+  "creator": "Eric",
+  "code": "E69B-9AD8-C12A-4A6B",
+  "creatorID": "Steam:76561198212637368",
+  "uploader": "RL OFN",
+  "uploaderID": "EPIC:",
+  "numDrills": 1,
+  "drills": [
+    {
+      "ball": {
+        "location": {
+          "x": -3652.5400390625,
+          "y": 1098.5,
+          "z": 1217.7999267578125
+        },
+        "torque": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "velocity": {
+          "x": 1101.7166748046875,
+          "y": 1522.9949951171875,
+          "z": -2306.724609375
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 0
+        },
+        "angular": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "players": [
+        {
+          "boost": 9.999999406318238e-08,
+          "location": {
+            "x": 895.5899658203125,
+            "y": 312.30999755859375,
+            "z": 17.010000228881836
+          },
+          "rotation": {
+            "pitch": -101,
+            "yaw": 21808,
+            "roll": 0
+          },
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.210999995470047
+          },
+          "role": "shooter"
+        }
+      ]
+    }
+  ]
+}
